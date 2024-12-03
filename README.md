@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevDavid06
-- 👀 I’m interested in programmind
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning other programming languages
 - 💞️ I’m looking to collaborate on other programming projects
 - 📫 How to reach me: iamjaybest@gmail.com, 08162638041
